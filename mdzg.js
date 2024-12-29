@@ -1,4 +1,3 @@
-
 function mdzg(layout_html, page_md) {
     window.addEventListener("load", async (event) => {
         const layout = await fetch(layout_html)
